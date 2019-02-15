@@ -1,6 +1,7 @@
 body{
 /*margin: 0;
 padding:0;*/
+background-color: #333;
 }
 .title__clients{
 	display: flex;
@@ -175,4 +176,10 @@ padding:0;*/
 .trans{
 	transform: translateY(-400px);
 	transition: 5s;
+}
+.row__names{
+	color: #ddd;
+}
+.column__names{
+	color: #ddd;
 }
