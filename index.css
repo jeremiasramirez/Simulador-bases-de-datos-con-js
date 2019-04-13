@@ -10,6 +10,7 @@ background-color: #333;
 	font-family: tahoma;
 	letter-spacing: .5px;
 	word-spacing: .5px;
+	transform: scale(.9);
 	padding-top: .1em;
 	margin-bottom:.5em;
 	text-decoration-line: underline;
